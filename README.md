@@ -32,7 +32,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 - **Prerequisites**: In this course you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
 - **How long**: This course is five steps long and takes less than one hour to complete.
 
-# How to start this course
+## How to start this course
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
