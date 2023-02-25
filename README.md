@@ -33,6 +33,9 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 - **How long**: This course is five steps long and takes less than one hour to complete.
 
 # How to start this course
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 1. Right-click **Start course** and open the link in a new tab.
    <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/communicate-using-markdown/generate)
