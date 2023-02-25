@@ -17,6 +17,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <details id=0>
 <summary><h2>Welcome</h2></summary>
